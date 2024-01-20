@@ -1,5 +1,4 @@
-# dive-into-github-by-crafting-your-repository-dehumphreyy
-👋 Hi, I’m @dehumphreyy
+# dive-into-github-by-crafting-your-repository-deh
 👀 I’m interested in --> All things Information Technology related
 🌱 I’m currently learning --> Web Development
 💞️ I’m looking to collaborate on --> Innovative Tech projects
